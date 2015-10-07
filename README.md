@@ -39,7 +39,7 @@ File Structure:
 How to configure: 
   - Directly import from your Eclipse 
     --File
-      --Imoort
+      --Import
         --Git
           --Project from Github
   - Clone the repository from your Github Client
