@@ -1,9 +1,6 @@
 # Petagram
 A Instagram-like Photo Sharing Web Application for Cute Animals
 
-Web site URL: 
-http://ec2-54-174-235-250.compute-1.amazonaws.com/task8/
-
 Functions: 
   - Follow, Like, Comment, Post, Upload photos, Search photos, Login via Instagram or Twitter, and Repost to Twitter
   - Fetched photos automatically from Instagram and Twitter APIs, and restored them into local database
