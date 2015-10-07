@@ -37,10 +37,10 @@ File Structure:
       - loading data from APIs to local db
 
 How to configure: 
-1.Directly import from your Eclipse 
+  - Directly import from your Eclipse 
     --File
       --Imoort
         --Git
           --Project from Github
-2.Clone the repository from your Github Client
+  - Clone the repository from your Github Client
       --Import Exisiting project
